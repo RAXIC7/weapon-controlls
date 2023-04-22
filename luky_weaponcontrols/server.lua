@@ -1,5 +1,5 @@
 local scriptVersion = "1.0"
-local githubLink = "https://github.com/mojrepository/moj-skript"
+local githubLink = "https://github.com/LukyNo1/weapon-controlls"
 
 function checkVersion()
     PerformHttpRequest(githubLink .. "/releases/latest", function(err, text, headers)
