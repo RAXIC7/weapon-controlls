@@ -9,3 +9,4 @@ Only thing you need is write /toggleweapon command and now you can´t kill playe
 
 ## Dependencies
 - This script is standalone, the only you need to do is place the script to your resources folder and start.
+- Do not change the resource name, otherwise it may create bugs or console errors.
